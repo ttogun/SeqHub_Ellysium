@@ -1,0 +1,8 @@
+.LoginForm {
+    padding: 60px 0;
+}
+
+.LoginForm form {
+    margin: 0 auto;
+    max-width: 450px;
+}
